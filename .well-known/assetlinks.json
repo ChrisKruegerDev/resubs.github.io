@@ -5,10 +5,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.moviebase",
+      "package_name": "app.resubs",
       "sha256_cert_fingerprints": [
-        "F8:DC:30:D2:15:43:E0:69:3E:CA:5D:7D:B7:6A:40:B1:66:C1:75:97:12:8F:B9:F4:0B:4F:2A:14:C1:7E:C5:2A",
-        "5C:6A:17:A6:4D:88:4F:8B:D8:10:A6:46:4A:E4:A1:94:28:D4:B7:6B:86:45:59:67:E6:D1:47:77:EE:05:A6:07"
+        "28:CC:EF:9C:1F:BE:B6:E5:83:00:40:39:D5:83:89:3F:FC:80:0E:2C:F1:D2:16:D6:DC:5E:EF:F5:19:03:22:EB"
       ]
     }
   },
@@ -18,9 +17,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.moviebase.debug",
+      "package_name": "app.resubs.debug",
       "sha256_cert_fingerprints": [
-        "44:9C:BE:B7:10:57:DB:88:9B:1B:98:0A:0C:46:B1:BC:EF:B7:8E:C1:76:5E:FF:57:07:64:06:65:AE:23:A5:21"
+        "71:44:B9:2E:42:06:D4:B8:FE:55:7E:F3:1C:AC:E3:6C:11:F3:18:95:9D:4A:2D:71:CF:2E:E5:DC:75:CA:B7:BC"
       ]
     }
   }

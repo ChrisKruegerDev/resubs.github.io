@@ -79,7 +79,7 @@ a {
 .primary_button {
     width: auto;
     display: inline-block;
-    background: #FB872B;
+    background: #007BE7;
     padding: 15px 80px;
     font-weight: 500;
     border-radius: 25px;
@@ -113,7 +113,7 @@ a {
 }
 
 li.menu-item.get_apps {
-    background: #FB872B;
+    background: #007BE7;
     padding: 10px 20px;
     font-weight: 500;
     border-radius: 25px;

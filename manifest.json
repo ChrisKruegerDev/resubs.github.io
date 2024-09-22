@@ -1,14 +1,14 @@
 {
-  "name": "StreamGuide",
-  "short_name": "StreamGuide: Movies & TV Shows",
+  "name": "ReSubs",
+  "short_name": "ReSubs: Subscription Manager",
   "icons": [
     {
-      "src": "/images/moviebase_app_icon_192.png",
+      "src": "/images/favicon.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/images/moviebase_app_icon_512.png",
+      "src": "/images/favicon.png",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -17,11 +17,11 @@
   "related_applications": [
     {
       "platform": "play",
-      "id": "app.streamguide",
-      "url": "https://play.google.com/store/apps/details?id=app.streamguide"
+      "id": "app.resubs",
+      "url": "https://play.google.com/store/apps/details?id=app.resubs"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "description": "Save time by quickly finding what to watch on your streaming services."
+  "description": "Manage and track all your recurring subscriptions in one place."
 }
